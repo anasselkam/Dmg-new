@@ -6,7 +6,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        'primary': [' Quicksand", sans-serif'],
+                'primary': ['Quicksand', 'sans-serif'],
       },
       colors: {},
       container: {
