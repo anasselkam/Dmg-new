@@ -1,6 +1,6 @@
 import React from 'react'
 import CardText from './utility/CardText'
-import CoursesImg from '../../assets/courses/courses1.jpg'
+import CoursesImg from '../../assets/Courses/courses1.jpg'
 
 
 const coursesData = {
