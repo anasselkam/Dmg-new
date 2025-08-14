@@ -1,7 +1,7 @@
 import React from 'react'
-import BgImages from '../../assets/images/hero1.jpeg'
-import heroImg from '../../assets/images/hero0.png'
-import ReviewImg from '../../assets/images/review.png'
+import BgImages from '../../assets/Images/hero1.jpeg'
+import heroImg from '../../assets/Images/hero0.png'
+import ReviewImg from '../../assets/Images/review.png'
 import Navbar from '../navbar/Navbar'
 
 const BgStyle = {
