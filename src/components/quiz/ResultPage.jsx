@@ -33,7 +33,7 @@ const ResultPage = ({ score }) => {
           </div>
         </div>
   
-        <div className="bg-gray-100 p-4 rounded-lg">
+        <div className= "bg-gray-100 p-4 rounded-lg">
           <p className="text-lg font-semibold">Ihr Niveau: <span className="text-yellow-600">{level}</span></p>
         </div>
       </div>
